@@ -8,7 +8,7 @@ A list of some SPOJ problems which are interesting, brainstorming and helps unde
 * [CLSLDR](http://www.spoj.com/problems/CLSLDR/) (nice concept!)
 * [SOCOLA](http://www.spoj.com/problems/SOCOLA/) (medium-hard DP)
 * [LPIS](http://www.spoj.com/problems/LPIS/)
-
+//hello
 ## Binary Search
 
 * [RETRO](http://www.spoj.com/problems/RETRO/) (one of my favourites :D)
